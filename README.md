@@ -1,1 +1,1 @@
-# Ejercicios prácticos de Vectores de clase.
+Ejercicios prácticos de Vectores de clase.
